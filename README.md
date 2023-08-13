@@ -25,7 +25,7 @@
 
 3. Run the script by providing the target URL:
 
-   ```python heroin.py <url>```
+   ```python heroinvuln/heroin.py <url>```
 
 ## Using the Script
 
@@ -47,7 +47,7 @@ Included in the repository is a simple Flask server, located in the `vulnerable-
 
 1. Navigate to the `vulnerable-server` directory:
 
-   ```cd vulnerable-server```
+   ```cd heroinvuln/vulnerable-server```
 
 3. Start the server:
 
